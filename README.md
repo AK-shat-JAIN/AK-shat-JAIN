@@ -19,7 +19,7 @@
 ### About me:
 - 😄 I’m interested in Coding, listening to Music, and Learning about new Technologies.
 - 🔭 I’m looking to collaborate on commercial projects and startups
-- 📫 How to reach me: [Email](taozhi8833998@gmail.com), [LinkedIn](https://www.linkedin.com/in/akshat-jain-27821b1b5).
+- 📫 How to reach me: [Email](akshatjain4545@gmail.com), [LinkedIn](https://www.linkedin.com/in/akshat-jain-27821b1b5).
 - 💬 Ask me about `Nothing`
 
 
