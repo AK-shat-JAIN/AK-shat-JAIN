@@ -27,9 +27,9 @@
 # GitHub Stats 📊
 
 <div align="center">
-  <img align="center" width="420px" src="https://stats.quine.sh/akshatjain/github">
+<!--   <img align="center" width="420px" src="https://stats.quine.sh/akshatjain/github"> -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=AK-shat-JAIN&layout=compact" />
-  <img align="center" src="https://visitcount.itsvg.in/api?id=AK-shat-JAIN&label=Profile%20Views&color=12&icon=3&pretty=false" />
+<!--   <img align="center" src="https://visitcount.itsvg.in/api?id=AK-shat-JAIN&label=Profile%20Views&color=12&icon=3&pretty=false" /> -->
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/AK-shat-JAIN/AK-shat-JAIN/output/github-contribution-grid-snake-dark.svg)
